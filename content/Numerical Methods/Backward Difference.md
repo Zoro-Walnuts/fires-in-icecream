@@ -12,11 +12,8 @@ publish: true
 # Backward Difference
 > [!seealso] Important concepts to know:
 > [[Binomial Expansion Theorem]]
-> [[Numerical Methods#^shift|Shifting Operator]]
-> [[Factorial Polynomial]]
-
-> [!tldr] Formulas:
-> $\nabla f(x) = f(x) - f(x-h)$
+> [](Binomial%20Expansion%20Theorem.md)fting Operator]]
+> [](Numerical%20Methods.md#^shift)> $\nabla f(x) = f(x) - f(x-h)$
 > $\nabla^2 f(x) = f(x) - 2f(x-h) + f(x-2h)$
 > $\nabla^3 f(x) = f(x) - 3f(x-h) + 3f(x-2h) - f(x-3h)$
 > #### Generalization Using Shifting Operator

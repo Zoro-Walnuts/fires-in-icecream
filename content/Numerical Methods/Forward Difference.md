@@ -12,11 +12,8 @@ publish: true
 # Forward Difference
 > [!seealso] Important concepts to know:
 > [[Binomial Expansion Theorem]]
-> [[Numerical Methods#^shift|Shifting Operator]]
-> [[Factorial Polynomial]]
-
-> [!tldr] Formulas:
-> $\Delta f(x) = f(x+h) - f(x)$
+> [](Binomial%20Expansion%20Theorem.md)fting Operator]]
+> [](Numerical%20Methods.md#^shift)> $\Delta f(x) = f(x+h) - f(x)$
 > $\Delta^2 f(x) = f(x+2h) - 2f(x+h) + f(x)$
 > $\Delta^3 f(x) = f(x+3h) -3f(x+2h) + 3f(x+h) - f(x)$
 > #### Generalization Using Shifting Operator:

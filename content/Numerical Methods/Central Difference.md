@@ -11,9 +11,8 @@ publish: true
 # Central Difference
 > [!seealso] Important concepts to know:
 > [[Binomial Expansion Theorem]]
-> [[Numerical Methods#^shift|Shifting Operator]]
-> [[Factorial Polynomial]]
-> [[Forward Difference]]
+> [](Binomial%20Expansion%20Theorem.md)fting Operator]]
+> [](Numerical%20Methods.md#^shift)e]]
 
 > [!tldr] Formulas:
 > $\delta f(x) = f(x+\frac{h}{2})-f(x-\frac{h}{2})$

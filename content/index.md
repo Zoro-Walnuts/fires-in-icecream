@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
-publish: true
+title: Welcom to my Twisted Mind
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[jonkeler.jpg]]
+## The Good good
+- [[Numerical Methods]]

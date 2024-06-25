@@ -44,13 +44,13 @@ publish: true
 
 ## Tabulating Backward Difference
 
-| $x$ | $f(x)$ | $\Delta f(x)$ | $\Delta^2 f(x)$ | $\Delta^3 f(x)$ | $\Delta^4 f(x)$ |
+| $x$ | $f(x)$ | $\nabla f(x)$ | $\nabla^2 f(x)$ | $\nabla^3 f(x)$ | $\nabla^4 f(x)$ |
 |:---:|:------:|:-------------:|:---------------:|:---------------:|:---------------:|
 |  0  | $f_0$  |               |                 |                 |                 |
-|  1  | $f_1$  | $\Delta f_1$  |                 |                 |                 |
-|  2  | $f_2$  | $\Delta f_2$  | $\Delta^2 f_2$  |                 |                 |
-|  3  | $f_3$  | $\Delta f_3$  | $\Delta^2 f_3$  | $\Delta^3 f_3$  |                 |
-|  4  | $f_4$  | $\Delta f_4$  | $\Delta^2 f_4$  | $\Delta^3 f_4$  | $\Delta^4 f_4$  |
-|  5  | $f_5$  | $\Delta f_5$  | $\Delta^2 f_5$  | $\Delta^3 f_5$  | $\Delta^4 f_5$  |
+|  1  | $f_1$  | $\nabla f_1$  |                 |                 |                 |
+|  2  | $f_2$  | $\nabla f_2$  | $\nabla^2 f_2$  |                 |                 |
+|  3  | $f_3$  | $\nabla f_3$  | $\nabla^2 f_3$  | $\nabla^3 f_3$  |                 |
+|  4  | $f_4$  | $\nabla f_4$  | $\nabla^2 f_4$  | $\nabla^3 f_4$  | $\nabla^4 f_4$  |
+|  5  | $f_5$  | $\nabla f_5$  | $\nabla^2 f_5$  | $\nabla^3 f_5$  | $\nabla^4 f_5$  |
 
 Where $\nabla f_n = f_n - f_{n-1}$

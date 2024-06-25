@@ -12,7 +12,6 @@ publish: true
 # Factorial Polynomial
 > [!tldr]  Formulas:
 > $x^{(n)} = x(x-1)(x-2)...(x-n+1)$
->
 > $x^{(-1)} = \frac{1}{(x+1)(x+2)...(x+n)}$ 
 
 ## Simple Examples

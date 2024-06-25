@@ -12,13 +12,9 @@ publish: true
 # Fixed Point Iteration Method
 
 - Algebraically manipulate a function to have x on both sides
-
 $$x^2 - x - 1 = 0$$
-
 $$x^2 = x - 1$$
-
 $$x = 1 - \frac{1}{x}$$
-
 - Now solve iteratively
 $$
 x_{new} = 1 - \frac{1}{x_{old}}

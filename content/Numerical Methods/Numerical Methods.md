@@ -16,21 +16,20 @@ publish: true
 - Calculus 1 stuff (functions, limits, derivatives, and integration)
 	- **Continuity** - if at a point $f(x)$ does not exit, it is [[discontinuous]]
 	- **Differentiability** - if a function is continuous at a given interval
+	
 ---
-
 ## Math Preliminaries
 1. [[Rolle's Theorem]]
 2. [[Intermediate Value Theorem]]
 3. [[Mean Value Theorem]]
 4. [[Extreme Value Theorem]]
 5. [[Binomial Expansion Theorem]]
+
 ---
 ## Iterative Approximation Methods
 > [!note] Note
 > Picking a starting point usually depends on the interval
-> 
 > ex. given interval $[2,4]$
-> 
 > starting point for x in $f(x)$ is $\frac{2+4}{2} = 3$
 1. [[Fixed Point Iteration Method]]
 2. [[Bisection Method]]

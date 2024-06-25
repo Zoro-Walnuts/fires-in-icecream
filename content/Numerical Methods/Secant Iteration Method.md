@@ -15,13 +15,11 @@ publish: true
 > $$
 > x_n = x_{n-1} - \frac{f(x_{n-1}) \cdot (x_{n-1} - x_{n-2})}{f(x_{n-1}) - f(x_{n-2})}
 > $$
-> 
 
 Example:
 $x^3 -2x^2 -5 = 0$, at interval $[1, 4]$
 
 let: $x = x_{n-1}$ and $y = x_{n-2}$
-
 $$
 \therefore x_n = x - \frac{(x^3-2x^2-5) \cdot (x-y)}{(x^3-2x^2-5)-(y^3-2y^2-5)}
 $$

@@ -28,8 +28,8 @@ publish: true
 ## Iterative Approximation Methods
 > [!note] Note
 > Picking a starting point usually depends on the interval
-> ex. given interval $[2,4]$ \
-> starting point for x in $f(x)$ is $\frac{2+4}{2} = 3$ \
+> ex. given interval $[2,4]$ newline should start
+> starting point for x in $f(x)$ is $\frac{2+4}{2} = 3$ crazy
 1. [[Fixed Point Iteration Method]]
 2. [[Bisection Method]]
 3. [[Newton-Raphson Iteration Method]]

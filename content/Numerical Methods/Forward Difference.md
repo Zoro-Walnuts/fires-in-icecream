@@ -14,18 +14,31 @@ publish: true
 > [[Binomial Expansion Theorem]]
 >  [[Numerical Methods#^shift|Shifting Operator]]
 > $\Delta f(x) = f(x+h) - f(x)$
+> 
 > $\Delta^2 f(x) = f(x+2h) - 2f(x+h) + f(x)$
+> 
 > $\Delta^3 f(x) = f(x+3h) -3f(x+2h) + 3f(x+h) - f(x)$
+> 
 > #### Generalization Using Shifting Operator:
+> 
 > $\Delta^n f(x) = (E-1)^n f(x)$
+> 
 > $\Delta^2 f(x) = (E-1)^2 f(x) = (E^2 -2E +1) f(x)$
+> 
 > #### Forward Difference of an Exponential Function
+> 
 > $\Delta^n a^x = a^x(a-1)^n$
+> 
 > #### Forward Difference of a Factorial Polynomial
+> 
 > $\Delta x^{(n)} = nx^{(n-1)}$
+> 
 > $\Delta^2 x^{(n)} = n(n-1)x^{(n-2)}$
+> 
 > $...$
+> 
 > $\Delta^m x^{(n)} = n(n-1)(n-2) ... (n-m+1)x^{(n-m)}$
+> 
 > $\Delta^n x^{(n)} = n(n-1)(n-1) ... 3 \cdot 2 \cdot 1 = n!$
 
 ## Tabulating Forward Difference 

@@ -36,8 +36,9 @@ publish: true
 2. [[Bisection Method]]
 3. [[Newton-Raphson Iteration Method]]
 4. [[Secant Iteration Method]]
+
 > [!info] Excel for using these methods
-> [Iteration_Methods.xlsx](!Attachments/Iteration_Methods.xlsx)
+> [Iteration_Methods_Google-Sheets](https://docs.google.com/spreadsheets/d/1GRZNN4Q6c1Rdlhe8Kf1dmAOGOdkEJCFwH3PDbTE0isA/edit?usp=sharing)
 
 --- 
 ## Finite Difference

@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "goatcounter",
-      websiteId: 'https://zorowalnuts.goatcounter.com/count'
+      websiteId: 'zorowalnuts'
     },
     locale: "en-US",
     baseUrl: "zoro-walnuts.github.io",

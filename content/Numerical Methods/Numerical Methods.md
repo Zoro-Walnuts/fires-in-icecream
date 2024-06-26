@@ -19,11 +19,15 @@ publish: true
 	
 ---
 ## Math Preliminaries
-1. [[Rolle's Theorem]]
 2. [[Intermediate Value Theorem]]
+1. [[Rolle's Theorem]]
 3. [[Mean Value Theorem]]
 4. [[Extreme Value Theorem]]
-5. [[Binomial Expansion Theorem]]
+6. [[Taylor's Polynomial Series]]
+5. [[Maclaurin's Polynomial Series]]
+6. [[Binomial Expansion Theorem]]
+7. [[Significant Digits]]
+8.  [[Measuring Error]]
 
 ---
 ## Iterative Approximation Methods

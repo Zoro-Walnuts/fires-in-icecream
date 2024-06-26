@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter",
+      websiteId: 'https://zorowalnuts.goatcounter.com/count'
     },
     locale: "en-US",
     baseUrl: "zoro-walnuts.github.io",

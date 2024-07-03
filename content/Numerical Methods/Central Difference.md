@@ -1,7 +1,8 @@
 ---
 aliases: 
-type: 
-tags: 
+type: article
+tags:
+  - nummeth
 creation-date: 2024-06-25
 creation-time: 00:57
 cssclasses: 
@@ -12,6 +13,8 @@ publish: true
 > [!seealso] Important concepts to know:
 > [[Binomial Expansion Theorem]]
 > [[Numerical Methods#^shift|Shifting Operator]]
+> [[Factorial Polynomial]]
+> [[Forward Difference]]
 
 > [!tldr] Formulas:
 > $\delta f(x) = f(x+\frac{h}{2})-f(x-\frac{h}{2})$
@@ -26,8 +29,9 @@ publish: true
 > $\delta = \frac{E-1}{E^{\frac{1}{2}}} = \frac{\Delta}{E^{\frac{1}{2}}}$
 > $\delta = \Delta E^{-\frac{1}{2}}$
 
+
 ## Tabulating Central Difference
 - Not yet Discussed
 
 ## Example of Central $\delta$ as Forward $\Delta$
-![[Central as Forward Example.png]]
+![[Central as Forward Example]]

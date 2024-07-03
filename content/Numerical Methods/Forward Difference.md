@@ -12,7 +12,8 @@ publish: true
 # Forward Difference
 > [!seealso] Important concepts to know:
 > [[Binomial Expansion Theorem]]
->  [[Numerical Methods#^shift|Shifting Operator]]
+> [[Numerical Methods#^shift|Shifting Operator]]
+> [[Factorial Polynomial]]
 
 > [!tldr] Formulas:
 > $\Delta f(x) = f(x+h) - f(x)$
@@ -31,6 +32,7 @@ publish: true
 > $\Delta^n x^{(n)} = n(n-1)(n-1) ... 3 \cdot 2 \cdot 1 = n!$
 
 ## Tabulating Forward Difference 
+
 | $x$ | $f(x)$ | $\Delta f(x)$ | $\Delta^2 f(x)$ | $\Delta^3 f(x)$ | $\Delta^4 f(x)$ |
 | :-: | :----: | :-----------: | :-------------: | :-------------: | :-------------: |
 |  0  | $f_0$  | $\Delta f_0$  | $\Delta^2 f_0$  | $\Delta^3 f_0$  | $\Delta^4 f_0$  |
@@ -39,5 +41,4 @@ publish: true
 |  3  | $f_3$  | $\Delta f_3$  | $\Delta^2 f_3$  |                 |                 |
 |  4  | $f_4$  | $\Delta f_4$  |                 |                 |                 |
 |  5  | $f_5$  |               |                 |                 |                 |
-
 Where $\Delta f_n = f_{n+1} - f_n$

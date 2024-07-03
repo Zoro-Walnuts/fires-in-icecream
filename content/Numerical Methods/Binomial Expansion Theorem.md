@@ -38,5 +38,5 @@ $$
 ## Pascal's Triangle
 - Number pattern that adds the two parent nodes above to get the next node
 - Describes the coefficients in the powers of a binomial
-![[content/!attachments/pascals-triangle-doubles.svg| center]]
+![[pascals-triangle-doubles.svg | center]]
 

@@ -18,8 +18,8 @@ publish: true
 
 Example:
 $x^3 -2x^2 -5 = 0$, at interval $[1, 4]$
-
-let: $x = x_{n-1}$ and $y = x_{n-2}$
+let:
+	$x = x_{n-1}$ and $y = x_{n-2}$
 $$
 \therefore x_n = x - \frac{(x^3-2x^2-5) \cdot (x-y)}{(x^3-2x^2-5)-(y^3-2y^2-5)}
 $$

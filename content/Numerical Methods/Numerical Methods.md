@@ -16,11 +16,10 @@ publish: true
 - Calculus 1 stuff (functions, limits, derivatives, and integration)
 	- **Continuity** - if at a point $f(x)$ does not exit, it is [[discontinuous]]
 	- **Differentiability** - if a function is continuous at a given interval
-	
----
+
 ## Math Preliminaries
-2. [[Intermediate Value Theorem]]
-1. [[Rolle's Theorem]]
+1. [[Intermediate Value Theorem]]
+2. [[Rolle's Theorem]]
 3. [[Mean Value Theorem]]
 4. [[Extreme Value Theorem]]
 6. [[Taylor's Polynomial Series]]
@@ -29,7 +28,6 @@ publish: true
 7. [[Significant Digits]]
 8.  [[Measuring Error]]
 
----
 ## Iterative Approximation Methods
 > [!note] Note
 > Picking a starting point usually depends on the interval
@@ -39,16 +37,26 @@ publish: true
 2. [[Bisection Method]]
 3. [[Newton-Raphson Iteration Method]]
 4. [[Secant Iteration Method]]
-
 > [!info] Excel for using these methods
-> [Iteration_Methods_Google-Sheets](https://docs.google.com/spreadsheets/d/1GRZNN4Q6c1Rdlhe8Kf1dmAOGOdkEJCFwH3PDbTE0isA/edit?usp=sharing)
+> [Iteration_Methods.xlsx](!Attachments/Iteration_Methods.xlsx)
 
---- 
 ## Finite Difference
 > [!note] Shifting Operator
-> $E f(x) = f(x+nh)$
+> $E^nf(x) = f(x+nh)$
 ^shift
 1. [[Factorial Polynomial]]
 2. [[Forward Difference]]
 3. [[Backward Difference]]
 4. [[Central Difference]]
+5. [[Divided Difference]]
+
+## Interpolation
+2. [[Linear Interpolation]]
+3. [[Interpolation by Shifting Operator]]
+4. [[Polynomial Interpolation]]
+5. [[Lagrange Interpolation]]
+6. [[Divided Difference Interpolation]]
+## Interpolation for Even Intervals
+1. [[Gregory-Newton Forward Difference Interpolation]]
+2. [[Newton Backward Difference Interpolation]]
+3. [[Newton-Gauss Central Difference Interpolation]]

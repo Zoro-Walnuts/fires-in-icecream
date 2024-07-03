@@ -12,6 +12,7 @@ publish: true
 # Factorial Polynomial
 > [!tldr]  Formulas:
 > $x^{(n)} = x(x-1)(x-2)...(x-n+1)$
+>
 > $x^{(-1)} = \frac{1}{(x+1)(x+2)...(x+n)}$ 
 
 ## Simple Examples
@@ -22,7 +23,7 @@ publish: true
 5. $(2x-1)(2x+1)(2x+3) = 2^3(x-\frac{1}{2})(x+\frac{1}{2})(x+\frac{3}{2}) = 8(x+\frac{3}{2})^{(3)}$
 
 ## Advanced Examples
-![[Factorial Polynomial Advanced Examples.png]]
+![[Factorial Polynomials Advanced Examples]]
 # In-depth Look
 ## Falling and Raising Factorial
 - Falling Factorial:

@@ -13,6 +13,7 @@ publish: true
 > [!seealso] Important concepts to know:
 > [[Binomial Expansion Theorem]]
 > [[Numerical Methods#^shift|Shifting Operator]]
+> [[Factorial Polynomial]]
 
 > [!tldr] Formulas:
 > $\nabla f(x) = f(x) - f(x-h)$

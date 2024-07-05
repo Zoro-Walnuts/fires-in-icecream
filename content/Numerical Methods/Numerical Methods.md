@@ -1,3 +1,15 @@
+---
+aliases: 
+type: MOC
+tags:
+  - 🗺️moc
+  - nummeth
+creation-date: 2024-06-13
+creation-time: 04:19
+cssclasses: 
+fileClass: 
+publish: true
+---
 # Numerical Methods
 - The study of algorithms using **numerical approximations** (ex. Limits)
 ### Some stuff you need to know

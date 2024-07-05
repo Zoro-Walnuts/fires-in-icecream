@@ -1,15 +1,3 @@
----
-aliases: 
-type: MOC
-tags:
-  - 🗺️moc
-  - nummeth
-creation-date: 2024-06-13
-creation-time: 04:19
-cssclasses: 
-fileClass: 
-publish: true
----
 # Numerical Methods
 - The study of algorithms using **numerical approximations** (ex. Limits)
 ### Some stuff you need to know
@@ -60,3 +48,8 @@ publish: true
 1. [[Gregory-Newton Forward Difference Interpolation]]
 2. [[Newton Backward Difference Interpolation]]
 3. [[Newton-Gauss Central Difference Interpolation]]
+
+## Other Interpolation Methods
+1. [[Stirling's Interpolation Formula]]
+2. [[Bessel's Interpolation Formula]]
+3. [[Everett's Interpolation Formula]]

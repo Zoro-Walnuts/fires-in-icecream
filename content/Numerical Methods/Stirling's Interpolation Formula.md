@@ -20,3 +20,5 @@ publish: true
 > + \frac{(r)(r^2-1)}{3!} \times \frac{\delta^3 f_{\frac{1}{2}} + \delta^3 f_{-\frac{1}{2}}}{2}
 > + \frac{(r^2)(r^2-1)}{4!} \delta f_0 + ...
 > $$
+> 
+

@@ -6,8 +6,11 @@ publish: true
 **Welcum to my Twisted Mind**
 
 ---
-## The Good good
+## Learning MOCs
 - [[Numerical Methods]]
+
+## Random Stuff
+- [[The appeal of Mechanical Keyboards]]
 ## What is this?
 This is my obsidian vault, the things I want to share with people. There is no [deeper meaning than that](jonkeler.jpg) .
 ## The contents? 

@@ -65,3 +65,4 @@ publish: true
 1. [[Stirling's Interpolation Formula]]
 2. [[Bessel's Interpolation Formula]]
 3. [[Everett's Interpolation Formula]]
+4. [[Vandermonde Matrix Interpolation]]

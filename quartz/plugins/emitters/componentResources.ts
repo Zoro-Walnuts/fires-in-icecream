@@ -237,7 +237,7 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
         ...componentResources.css,
         styles,
       )
-      const [prescript, postscript] = await Promise.all([
+      const [prescript, postscript, test] = await Promise.all([
         joinScripts(componentResources.beforeDOMLoaded),
         joinScripts(componentResources.afterDOMLoaded),
       ])
@@ -273,6 +273,13 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
           ext: ".js",
           content: postscript,
         }),
+                write({
+          ctx,
+          slug: "test" as FullSlug,
+          ext: ".js",
+          content: test,
+        }),
+
       )
 
       return await Promise.all(promises)

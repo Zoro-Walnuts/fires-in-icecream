@@ -34,14 +34,14 @@ publish: true
 
 [[Findings html experiment]]
 
-<script type='text/javascript'>
-function checkName() {
-  let name = document.getElementById('name').value;
-
-  if(name == 'walnuts') {
-    alert('Name is ' + name + ' ain\'t that flippin cray cray dawg?');
-  } else {
-    alert('Name ain\'t right dawg');
-  }
-}
-</script>
+<!-- <script type='text/javascript'> -->
+<!-- function checkName() { -->
+<!--   let name = document.getElementById('name').value; -->
+<!---->
+<!--   if(name == 'walnuts') { -->
+<!--     alert('Name is ' + name + ' ain\'t that flippin cray cray dawg?'); -->
+<!--   } else { -->
+<!--     alert('Name ain\'t right dawg'); -->
+<!--   } -->
+<!-- } -->
+<!-- </script> -->

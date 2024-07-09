@@ -11,6 +11,8 @@ publish: true
 
 ## Random Stuff
 - [[The appeal of Mechanical Keyboards]]
+
+- [[Testing Stuff Out]]
 ## What is this?
 This is my obsidian vault, the things I want to share with people. There is no [deeper meaning than that](jonkeler.jpg) .
 ## The contents? 

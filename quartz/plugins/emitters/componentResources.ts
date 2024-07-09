@@ -1,6 +1,9 @@
 import { FilePath, FullSlug, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 
+// custom shaiza
+import logintest from "../../components/scripts/logintest.inline"
+
 // @ts-ignore
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
@@ -70,6 +73,9 @@ async function joinScripts(scripts: string[]): Promise<string> {
 
 function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentResources) {
   const cfg = ctx.cfg.configuration
+
+  // custom shaiza
+  componentResources.afterDomLoaded.push(logintest)
 
   // popovers
   if (cfg.enablePopovers) {

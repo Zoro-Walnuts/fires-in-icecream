@@ -1,9 +1,6 @@
 import { FilePath, FullSlug, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 
-// custom scripts
-import test from "../../components/scripts/test"
-
 // @ts-ignore
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
@@ -73,9 +70,6 @@ async function joinScripts(scripts: string[]): Promise<string> {
 
 function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentResources) {
   const cfg = ctx.cfg.configuration
-
-  // Custom scripts
-  componentReources.afterDOMLoaded.push(test)
 
   // popovers
   if (cfg.enablePopovers) {

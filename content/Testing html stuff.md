@@ -3,7 +3,6 @@ publish: true
 ---
 
 <h1>LMAO MOMENT</h1>
-<script src="./test.js" type="application/javascript" spa-preserve=""></script>
 - Just testing stuff out for a future dnd project (hopefully)
 <center>
 	<label for="name">
@@ -34,3 +33,15 @@ publish: true
 </center>
 
 [[Findings html experiment]]
+
+<script type="text/javascript">
+function checkName() {
+  let name = document.getElementById("name").value;
+
+  if(name == "walnuts") {
+    alert("Name is " + name + " ain't that flippin cray cray dawg?");
+  } else {
+    alert("Name ain't right dawg");
+  }
+}
+</script>

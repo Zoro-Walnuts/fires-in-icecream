@@ -3,7 +3,7 @@ publish: true
 ---
 
 <h1>LMAO MOMENT</h1>
-<script src="./test.js" type="text/javascript"></script>
+<script src="./test.js" type="application/javascript" spa-preserve=""></script>
 - Just testing stuff out for a future dnd project (hopefully)
 <center>
 	<label for="name">

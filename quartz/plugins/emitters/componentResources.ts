@@ -2,7 +2,7 @@ import { FilePath, FullSlug, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 
 // custom scripts
-import test from "../../components/scripts/test.js"
+import test from "../../components/scripts/test"
 
 // @ts-ignore
 import spaRouterScript from "../../components/scripts/spa.inline"

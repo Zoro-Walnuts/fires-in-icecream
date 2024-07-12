@@ -2,6 +2,8 @@
 publish: true
 ---
 
+
+<script src="./static/loginTest.js" type="text/javascript" defer></script>
 <h1>LMAO MOMENT</h1>
 - Just testing stuff out for a future dnd project (hopefully)
 <center>
@@ -34,14 +36,16 @@ publish: true
 
 [[Findings html experiment]]
 
-<script defer>
-function checkName() {
-  let name = document.getElementById('name').value;
-
-  if(name == 'walnuts') {
-    alert('Name is ' + name + ' ain\'t that flippin cray cray dawg?');
-  } else {
-    alert('Name ain\'t right dawg');
-  }
-}
-</script>
+<!-- <img src="./static/icon.png"></img> -->
+<!---->
+<!-- <script defer> -->
+<!-- function checkName() { -->
+<!--   let name = document.getElementById('name').value; -->
+<!---->
+<!--   if(name == 'walnuts') { -->
+<!--     alert('Name is ' + name + ' ain\'t that flippin cray cray dawg?'); -->
+<!--   } else { -->
+<!--     alert('Name ain\'t right dawg'); -->
+<!--   } -->
+<!-- } -->
+<!-- </script> -->

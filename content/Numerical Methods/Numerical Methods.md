@@ -66,3 +66,6 @@ publish: true
 2. [[Bessel's Interpolation Formula]]
 3. [[Everett's Interpolation Formula]]
 4. [[Vandermonde Matrix Interpolation]]
+5. [[Derivative Interpolation]]
+6. [[Big O Notation Interpolation]]
+7. [[Integral Interpolation]]

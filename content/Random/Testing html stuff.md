@@ -1,4 +1,7 @@
 ---
+type: code snippet
+tags:
+  - coding
 publish: true
 ---
 

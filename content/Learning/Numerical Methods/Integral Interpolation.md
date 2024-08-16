@@ -14,4 +14,4 @@ publish: true
 	- Our prof hates calculus, and whenever he teaches calculus, it's never clear and it's always fast, like he wants to get out of it as soon as possible
 
 > [!tldr] Formulas:
-> 
+> #🐱notdone 

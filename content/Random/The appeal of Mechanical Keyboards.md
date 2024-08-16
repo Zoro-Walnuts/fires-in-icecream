@@ -1,13 +1,8 @@
 ---
-aliases: 
 type: article
 tags:
   - personal
   - thought
-creation-date: 2024-07-08
-creation-time: 04:28
-cssclasses: 
-fileClass: 
 publish: true
 ---
 # The appeal of Mechanical Keyboards

@@ -1,21 +1,18 @@
 ---
 title: Fries in Ice Cream
+type: homepage
 publish: true
+tags:
+  - homepage
 ---
 # Fries in Ice Cream
 **Welcum to my Twisted Mind**
 
 ---
-## Learning MOCs
-- [[Numerical Methods]]
-
-## Random Stuff
-- [[The appeal of Mechanical Keyboards]]
-- [[Testing html stuff]]
 ## What is this?
 This is my obsidian vault, the things I want to share with people. There is no [deeper meaning than that](jonkeler.jpg) .
 ## The contents? 
-Notes can range from educational notes from crap I learn, to stuff I write like poems, short stories,  opinion pieces, reflections, or D&D.
+Notes can range from [[Learning Stuff | educational notes]] from crap I learn, to [[Random Stuff| stuff I write]] like poems, short stories, or D&D.
 
 Also random unstructured snippets of my day, all the way to structured blog like posts about random garbage anyway.
 

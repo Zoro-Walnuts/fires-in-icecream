@@ -1,5 +1,8 @@
 ---
 publish: true
+type: article
+tags:
+  - coding
 ---
 # Findings [[Testing html stuff]]
 > [!error] This was wrong ahh hell
